@@ -1,6 +1,6 @@
 baseURL = "https://mejiasammy.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de MejiaSammy" 💕
+title = "Bitácora de Viaje de MejiaSammy"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
